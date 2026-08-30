@@ -1,0 +1,29 @@
+---
+description: OPERATOR / Operator 10K coaching business context for all work in this repo
+alwaysApply: true
+---
+
+# Operator 10K
+
+This repo is the landing page for **OPERATOR** / **Operator 10K**, Karol’s coaching business (with founding partner Wiktor). Do not treat it as a generic course site or mix it with unrelated client work.
+
+## Offer
+
+- 8-week execution program for ambitious young people building a first **B2B service business** (typically marketing/ops sold to companies).
+- One vehicle, one offer, one market, 60-day execution window.
+- **10,000 PLN/month is the target, never a guaranteed outcome.** Never promise income in copy, ads, or legal.
+
+## Product stack (use these names)
+
+- **The Playbook** — implementation training
+- **The War Room** — weekly live coaching
+- **Operator Network** — private community
+- **The Vault** — scripts, templates, SOPs
+
+## Founding Class
+
+First 25 Operators. **Founding Access** is the default CTA. 50% off month one. Checkout URL: `js/config.js` `ctaUrl` (currently `#founding`).
+
+## Voice and look
+
+Aggressive, honest about rejection and effort — not guru or passive-income. Dark `#0A0A0A`, lime `#C7FF3D`, cream `#F4F1EA`. Tagline: Build. Sell. Deliver. Repeat.
